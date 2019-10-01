@@ -6,3 +6,4 @@ test
 laki 
 
 maj
+//teat nov test povekje commits 
